@@ -1,7 +1,13 @@
-timestamp	user_email	label	confidence	snapshot_path	crop_path	camera
-2025-10-14T16:52:3   	Gun	0.3938	snapshots\20251014_165232_frame.png	snapshots\20251014_165232_crop_gun.png	webcam:0
-2025-10-14T17:07:11		Gun	0.4434	snapshots\20251014_170711_frame.png	snapshots\20251014_170711_crop_gun.png	webcam:0
-2025-10-14T17:22:45		Gun	0.5824	snapshots\20251014_172245_frame.png	snapshots\20251014_172245_crop_gun.png	webcam:0
-2025-10-14T17:29:1		Gun	0.4118	snapshots\20251014_172915_frame.png	snapshots\20251014_172915_crop_gun.png	webcam:0
-2025-10-14T20:44:06 	knife	0.5067	snapshots\20251014_204406_frame.png	snapshots\20251014_204406_crop_knife.png	webcam:0
-2025-10-14T20:44:[		knife	0.3503	snapshots\20251014_204454_frame.png	snapshots\20251014_204454_crop_knife.png	webcam:0
+timestamp,user_email,label,confidence,snapshot_path,crop_path,camera
+2025-10-14T16:52:32.911964,,Gun,0.3938,snapshots\20251014_165232_frame.png,snapshots\20251014_165232_crop_gun.png,webcam:0
+2025-10-14T17:07:11.782938,,Gun,0.4434,snapshots\20251014_170711_frame.png,snapshots\20251014_170711_crop_gun.png,webcam:0
+2025-10-14T17:22:45.553440,,Gun,0.5824,snapshots\20251014_172245_frame.png,snapshots\20251014_172245_crop_gun.png,webcam:0
+2025-10-14T17:29:15.474983,,Gun,0.4118,snapshots\20251014_172915_frame.png,snapshots\20251014_172915_crop_gun.png,webcam:0
+2025-10-14T20:44:06.803139,,knife,0.5067,snapshots\20251014_204406_frame.png,snapshots\20251014_204406_crop_knife.png,webcam:0
+2025-10-14T20:44:54.199930,,knife,0.3503,snapshots\20251014_204454_frame.png,snapshots\20251014_204454_crop_knife.png,webcam:0
+2025-10-14T20:45:07.050589,,knife,0.3716,snapshots\20251014_204507_frame.png,snapshots\20251014_204507_crop_knife.png,webcam:0
+2025-10-14T20:45:25.592078,,Gun,0.3582,snapshots\20251014_204525_frame.png,snapshots\20251014_204525_crop_gun.png,webcam:0
+2025-10-14T20:45:39.848759,,knife,0.4081,snapshots\20251014_204539_frame.png,snapshots\20251014_204539_crop_knife.png,webcam:0
+2025-10-14T20:53:26.885373,,grenade,0.515,snapshots\20251014_205326_frame.png,snapshots\20251014_205326_crop_grenade.png,webcam:0
+2025-10-15T11:01:38.000987,,gun,0.8706,snapshots\20251015_110138_frame.png,snapshots\20251015_110138_crop_gun.png,webcam:0
+2025-10-15T11:18:59.599452,,gun,0.816,snapshots\20251015_111859_frame.png,snapshots\20251015_111859_crop_gun.png,webcam:0

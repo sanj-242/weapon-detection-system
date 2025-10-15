@@ -1,0 +1,18 @@
+streamlit==1.37.1
+ultralytics==8.3.4
+
+# 3.13-friendly pins (force wheels, avoid source builds)
+numpy>=2.2
+opencv-python-headless>=4.10.0
+av>=12.2
+Pillow>=10.4.0
+streamlit-webrtc==0.47.7
+
+google-auth==2.34.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+yagmail==0.15.293
+python-dotenv==1.0.1
+huggingface_hub>=0.24.0
+pyrebase4>=4.7.1
+
