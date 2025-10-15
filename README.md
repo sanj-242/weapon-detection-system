@@ -1,4 +1,4 @@
-##**AI-Powered Real-Time Weapon Detection & Alert System**
+**AI-Powered Real-Time Weapon Detection & Alert System**
 
 This project applies AI and computer vision to build a real-time weapon detection and alert system.
 It uses YOLOv8 for object detection, Streamlit for live visualization, and Firebase for secure user authentication — showing how machine learning models can be deployed to solve safety-critical problems.
@@ -32,13 +32,13 @@ Data Handling & Visualization: Implemented detection logs, data storage, and a S
 
 **Outputs**
 1. Real-Time Detection
-<img width="2843" height="1445" alt="image" src="https://github.com/user-attachments/assets/596e1f5a-a016-4a76-a33e-6c3bcf622ed8" />
+<img width="284" height="144" alt="image" src="https://github.com/user-attachments/assets/596e1f5a-a016-4a76-a33e-6c3bcf622ed8" />
 
 2. Automated Alert Email
-<img width="1264" height="881" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
+<img width="126" height="881" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
 
 Streamlit Dashboard
-<img width="2843" height="1445" alt="image" src="https://github.com/user-attachments/assets/a5e798e3-c09d-4e3e-90fb-647f374e954a" />
+<img width="284" height="144" alt="image" src="https://github.com/user-attachments/assets/a5e798e3-c09d-4e3e-90fb-647f374e954a" />
 
 **AI in Practice**
 
