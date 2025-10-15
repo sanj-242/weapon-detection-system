@@ -1,1 +1,7 @@
-
+timestamp	user_email	label	confidence	snapshot_path	crop_path	camera
+2025-10-14T16:52:3   	Gun	0.3938	snapshots\20251014_165232_frame.png	snapshots\20251014_165232_crop_gun.png	webcam:0
+2025-10-14T17:07:11		Gun	0.4434	snapshots\20251014_170711_frame.png	snapshots\20251014_170711_crop_gun.png	webcam:0
+2025-10-14T17:22:45		Gun	0.5824	snapshots\20251014_172245_frame.png	snapshots\20251014_172245_crop_gun.png	webcam:0
+2025-10-14T17:29:1		Gun	0.4118	snapshots\20251014_172915_frame.png	snapshots\20251014_172915_crop_gun.png	webcam:0
+2025-10-14T20:44:06 	knife	0.5067	snapshots\20251014_204406_frame.png	snapshots\20251014_204406_crop_knife.png	webcam:0
+2025-10-14T20:44:[		knife	0.3503	snapshots\20251014_204454_frame.png	snapshots\20251014_204454_crop_knife.png	webcam:0
