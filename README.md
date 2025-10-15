@@ -57,5 +57,7 @@ Real-time alerts for proactive safety response
 Author
 
 Sanjana S.
+
 AI Engineer | Computer Vision | Applied Machine Learning
+
 Building real-world AI systems that bridge perception, automation, and safety.
