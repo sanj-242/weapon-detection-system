@@ -32,7 +32,8 @@ Data Handling & Visualization: Implemented detection logs, data storage, and a S
 
 **Outputs**
 1. Real-Time Detection
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/596e1f5a-a016-4a76-a33e-6c3bcf622ed8" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9289b07a-d30d-429d-8e93-4b0c364d6120" />
+
 
 2. Automated Alert Email
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
