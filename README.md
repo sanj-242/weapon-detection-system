@@ -39,7 +39,8 @@ Data Handling & Visualization: Implemented detection logs, data storage, and a S
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
 
 3. Streamlit Dashboard
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a5e798e3-c09d-4e3e-90fb-647f374e954a" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dce811a7-e014-476c-ba47-3ece72d2bb0a" />
+
 
 **AI in Practice**
 
