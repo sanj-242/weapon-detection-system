@@ -32,13 +32,13 @@ Data Handling & Visualization: Implemented detection logs, data storage, and a S
 
 **Outputs**
 1. Real-Time Detection
-<img width="284" height="144" alt="image" src="https://github.com/user-attachments/assets/596e1f5a-a016-4a76-a33e-6c3bcf622ed8" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/596e1f5a-a016-4a76-a33e-6c3bcf622ed8" />
 
 2. Automated Alert Email
-<img width="126" height="881" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f757f4a1-bb37-40be-ad43-e8722abf523c" />
 
-Streamlit Dashboard
-<img width="284" height="144" alt="image" src="https://github.com/user-attachments/assets/a5e798e3-c09d-4e3e-90fb-647f374e954a" />
+3. Streamlit Dashboard
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a5e798e3-c09d-4e3e-90fb-647f374e954a" />
 
 **AI in Practice**
 
